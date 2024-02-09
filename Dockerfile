@@ -1,4 +1,7 @@
 FROM python:3.10
+LABEL maintainer "Jim Clausing, jclausing@isc.sans.edu"
+LABEL version="DFIR Unfurl v0.1"
+LABEL description="Run unfurl_cli.apy in a docker container"
 
 WORKDIR /data
 
