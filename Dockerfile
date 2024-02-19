@@ -1,4 +1,4 @@
-FROM python:3.10
+FROM python:3.10.13-slim-bookworm
 LABEL maintainer "Jim Clausing, jclausing@isc.sans.edu"
 LABEL version="DFIR Unfurl v0.1"
 LABEL description="Run unfurl_cli.apy in a docker container"
