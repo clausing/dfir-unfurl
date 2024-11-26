@@ -3,6 +3,12 @@
 <!-- markdownlint-disable MD033 -->
 This file will be used to document notable changes
 
+## 2024-11-26
+
+### Changed
+
+- Moved base to python:3.12-slim-bookworm and updated to release 2024.11
+
 ## 2024-10-02
 
 ### Changed
