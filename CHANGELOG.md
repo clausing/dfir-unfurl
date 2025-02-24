@@ -3,6 +3,12 @@
 <!-- markdownlint-disable MD033 -->
 This file will be used to document notable changes
 
+## 2025-02-24
+
+### Changed
+
+- Proper pip install to get all the requirements loaded
+
 ## 2025-02-18
 
 ### Changed

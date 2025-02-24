@@ -5,7 +5,8 @@ LABEL description="Run unfurl_cli.apy in a docker container"
 
 WORKDIR /data
 
-RUN pip install dfir-unfurl
+RUN pip install dfir-unfurl[all]
+RUN pip install flask
 RUN cp /usr/local/lib/python3.12/site-packages/unfurl/scripts/unfurl_cli.py /data/
 RUN useradd user
 
