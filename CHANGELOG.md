@@ -8,6 +8,7 @@ This file will be used to document notable changes
 ### Changed
 
 - Updated to release 2026.04
+- Migrate to docker CI workflow to push to docker hub
 
 ## 2025-08-11
 
